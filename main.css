@@ -1,0 +1,15 @@
+.центр {
+  text-align: center;  
+}
+.красный {
+  color: red;
+}
+main {
+  background-color: #6CF21F;
+}
+.all h2 {
+  font-size: 60px;
+}
+.курсив {
+  font-style: oblique;
+}
